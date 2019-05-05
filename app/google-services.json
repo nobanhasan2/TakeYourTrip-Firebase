@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "858389095118",
+    "firebase_url": "https://takeyourtrip-be302.firebaseio.com",
+    "project_id": "takeyourtrip-be302",
+    "storage_bucket": "takeyourtrip-be302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858389095118:android:b4f707adb7c8618f",
+        "android_client_info": {
+          "package_name": "com.wix.norsoftbd.takeyourtrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858389095118-56vlosppqn11c1prhtfbou0tti2mglrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlxTeiImPgx_Tdt41tlXMmRXupgD6wOZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
